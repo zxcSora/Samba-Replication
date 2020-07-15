@@ -49,4 +49,4 @@ for i in range(0, len(almost_clear_list)):
 
             print(context_for_check + " successful") # or print("0") for zabbix
         else:
-            print(context_for_check + " fail") # or print("1") for zabbix
+            print(context_for_check + " fail") # or print("1") for zabbix #
